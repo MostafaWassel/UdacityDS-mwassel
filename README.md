@@ -42,7 +42,7 @@ Key findings from the analysis:
 2. Higher GDP countries tend to have lower population growth rates
 3. Achieved 99% accuracy in GDP predictions using historical data
 
-For a detailed discussion of the results, please read our [blog post](link-to-blog-post).
+For a detailed discussion of the results, please read our [blog post]([link-to-blog-post](https://medium.com/@mostafa.wassel.dio/unlocking-economic-insights-predicting-gdp-with-world-bank-data-historically-2000-2015-99265dd03898)).
 
 ## Future Improvements
 Potential enhancements for future work:
