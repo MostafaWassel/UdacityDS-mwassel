@@ -74,7 +74,5 @@ jupyter notebook Course1Project.ipynb
 - scikit-learn documentation for model implementation references
 
 ## Author
-[Your Name]
+Moustafa Wassel
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details
